@@ -183,9 +183,40 @@
     .layout{grid-template-columns:1fr;}
     .cats{
       position:static; flex-direction:row; overflow-x:auto; max-height:none; padding-bottom:4px;
+      -webkit-overflow-scrolling:touch; scrollbar-width:none;
     }
-    .cat-btn{flex:none; width:auto;}
+    .cats::-webkit-scrollbar{display:none;}
+    .cat-btn{flex:none; width:auto; white-space:nowrap;}
     .cats-manage{flex:none;}
+  }
+  @media (max-width:600px){
+    body{font-size:15px;}
+    .topbar{padding:10px 12px;}
+    .topbar-row{gap:8px;}
+    .brand{width:100%; margin-right:0;}
+    .brand h1{font-size:15px;}
+    .brand span{font-size:11px;}
+    .search-wrap{order:3; flex:1 1 100%; min-width:0;}
+    .btn-add, .btn-ghost{padding:9px 12px; font-size:13px;}
+    .btn-add .lbl, .btn-ghost .lbl{display:none;}
+    .layout{padding:12px 12px 40px; gap:14px;}
+    .cats-manage{font-size:12px; padding:8px 10px;}
+    .cat-btn{padding:8px 10px; font-size:12.5px;}
+    .content-head{margin-bottom:10px;}
+    .content-head h2{font-size:16.5px;}
+    .grid{grid-template-columns:1fr; gap:10px;}
+    .card{padding:12px; gap:6px;}
+    .card-title{font-size:14px;}
+    .card-text{max-height:180px; font-size:12.5px;}
+    .badge{font-size:10.5px; padding:3px 8px;}
+    .link-chip{font-size:12px; padding:7px 9px;}
+    .modal{padding:16px; border-radius:14px; max-width:100%;}
+    .row-2{grid-template-columns:70px 1fr; gap:8px;}
+    .modal-actions{flex-wrap:wrap;}
+    .modal-actions button{flex:1 1 auto;}
+    .btn-danger{margin-right:0; order:3; flex-basis:100%;}
+    .overlay{padding:0; align-items:flex-end;}
+    .overlay .modal{border-radius:16px 16px 0 0; max-height:85vh;}
   }
 </style>
 </head>
@@ -208,11 +239,11 @@
     </div>
     <button class="btn-ghost" id="btnDownload" title="Baixar postagens.json atualizado para publicar no GitHub">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>
-      JSON
+      <span class="lbl">JSON</span>
     </button>
-    <button class="btn-add" id="btnAdd">
+    <button class="btn-add" id="btnAdd" title="Adicionar postagem">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
-      Adicionar
+      <span class="lbl">Adicionar</span>
     </button>
   </div>
 </div>
