@@ -20,7 +20,7 @@
     --radius: 12px;
   }
   *{box-sizing:border-box}
-  html,body{margin:0;padding:0;}
+  html,body{margin:0;padding:0; max-width:100%; overflow-x:hidden;}
   body{
     background:var(--branco);
     color:var(--cinza-900);
@@ -62,7 +62,7 @@
   .btn-ghost{background:#fff; color:var(--azul-700); border:1.5px solid var(--azul-100);}
   .layout{
     max-width:1280px; margin:0 auto; padding:18px 20px 60px; display:grid;
-    grid-template-columns:230px 1fr; gap:22px;
+    grid-template-columns:230px 1fr; gap:22px; min-width:0;
   }
   .cats{
     display:flex; flex-direction:column; gap:4px; position:sticky; top:78px; align-self:start; max-height:calc(100vh - 150px); overflow:auto;
@@ -86,12 +86,12 @@
   .content-head h2{font-size:19px; margin:0; color:var(--azul-900);}
   .content-head .sub{font-size:12.5px; color:var(--cinza-600);}
   .grid{
-    display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:14px;
+    display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:14px; width:100%;
   }
   .card{
     background:var(--azul-50); border:1.5px solid var(--azul-100); border-radius:var(--radius);
     padding:14px; display:flex; flex-direction:column; gap:8px; box-shadow:var(--sombra);
-    transition:.15s;
+    transition:.15s; min-width:0; max-width:100%;
   }
   .card-top{display:flex; align-items:center; gap:8px;}
   .badge{
@@ -101,10 +101,10 @@
   .badge svg{width:12px;height:12px;}
   .badge .emoji{font-size:13px; line-height:1;}
   .card-date{margin-left:auto; font-size:11px; color:var(--cinza-600);}
-  .card-title{font-size:14.5px; font-weight:600; color:var(--cinza-900); line-height:1.35; word-break:break-word;}
+  .card-title{font-size:14.5px; font-weight:600; color:var(--cinza-900); line-height:1.35; word-break:break-word; overflow-wrap:anywhere;}
   .card-title.empty-title{color:var(--cinza-600); font-weight:500; font-style:italic;}
   .card-text{
-    font-size:13px; color:var(--cinza-600); line-height:1.45; white-space:pre-wrap; word-break:break-word;
+    font-size:13px; color:var(--cinza-600); line-height:1.45; white-space:pre-wrap; word-break:break-word; overflow-wrap:anywhere;
     max-height:230px; overflow-y:auto; padding-right:4px;
     scrollbar-width:thin; scrollbar-color:var(--azul-600) var(--azul-50);
   }
@@ -112,13 +112,13 @@
   .card-text::-webkit-scrollbar-track{background:var(--azul-50); border-radius:8px;}
   .card-text::-webkit-scrollbar-thumb{background:var(--azul-100); border-radius:8px;}
   .card-text::-webkit-scrollbar-thumb:hover{background:var(--azul-600);}
-  .card-links{display:flex; flex-direction:column; gap:5px;}
+  .card-links{display:flex; flex-direction:column; gap:5px; min-width:0;}
   .link-chip{
     display:flex; align-items:center; gap:6px; background:#fff; border:1px solid var(--azul-100); color:var(--azul-700);
     font-size:12.5px; padding:6px 9px; border-radius:8px; cursor:pointer; text-decoration:none; font-weight:600;
-    overflow:hidden;
+    overflow:hidden; min-width:0; max-width:100%;
   }
-  .link-chip span{overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+  .link-chip span{overflow:hidden; text-overflow:ellipsis; white-space:nowrap; min-width:0; flex:1 1 auto;}
   .link-chip svg{flex:none; width:13px; height:13px;}
   .card-foot{display:flex; align-items:center; gap:8px; margin-top:auto; padding-top:6px;}
   .sender-tag{font-size:11px; color:var(--azul-700); background:var(--azul-100); padding:3px 8px; border-radius:999px; font-weight:600;}
@@ -151,7 +151,10 @@
   .field textarea{resize:vertical; min-height:80px;}
   .field small{color:var(--cinza-600); font-size:11px;}
   .row-2{display:grid; grid-template-columns:80px 1fr; gap:10px;}
-  .modal-actions{display:flex; justify-content:flex-end; gap:8px; margin-top:16px;}
+  .modal-actions{
+    display:flex; justify-content:flex-end; gap:8px; margin-top:16px;
+    position:sticky; bottom:-22px; background:#fff; padding:10px 0 4px; margin-bottom:-22px;
+  }
   .btn-secondary{background:var(--cinza-100); color:var(--cinza-900); border:none; padding:9px 16px; border-radius:999px; font-weight:600; font-size:13.5px; cursor:pointer;}
   .btn-primary{background:var(--azul-700); color:#fff; border:none; padding:9px 18px; border-radius:999px; font-weight:600; font-size:13.5px; cursor:pointer;}
   .btn-danger{background:#fff; color:#b91c1c; border:1.5px solid #fecaca; padding:9px 16px; border-radius:999px; font-weight:600; font-size:13.5px; cursor:pointer; margin-right:auto;}
@@ -203,8 +206,8 @@
     .modal-actions{flex-wrap:wrap;}
     .modal-actions button{flex:1 1 auto;}
     .btn-danger{margin-right:0; order:3; flex-basis:100%;}
-    .overlay{padding:0; align-items:flex-end;}
-    .overlay .modal{border-radius:16px 16px 0 0; max-height:85vh;}
+    .overlay{padding:10px; align-items:flex-start;}
+    .overlay .modal{margin-top:8vh; max-height:84vh;}
   }
 
   /* Efeitos de :hover só se aplicam em dispositivos com mouse —
