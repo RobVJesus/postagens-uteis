@@ -9,9 +9,10 @@
   "juridico": "Jurídico",
   "seguranca_golpes": "Segurança & Golpes",
   "avisos_grupo": "Avisos do Grupo",
-  "links_uteis": "Links & Sites Úteis",
+  "links_uteis": "Oportunidades",
   "diversos_texto": "Perguntas & Respostas Diversas",
-  "contatos_uteis": "Contatos Úteis"
+  "contatos_uteis": "Contatos & Sites Úteis",
+  "familia_naval": "Família Naval"
  },
  "items": [
   {
@@ -20,7 +21,7 @@
    "sender": "5521-SO Mesquita",
    "text": "Senhores só postem mensagem importante. Postar OK (tá de guerra).",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "avisos_grupo",
    "title": "Senhores só postem mensagem importante. Postar OK (tá de guerra).",
    "icon": "",
    "replyTo": null
@@ -198,17 +199,6 @@
    "urls": [],
    "category": "saude_atendimento",
    "title": "Ramais HNMD (21) 2599-5599",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 17,
-   "date": "19/08/25",
-   "sender": "Veterano #9",
-   "text": "Amigo, você leu as regras do grupo?",
-   "urls": [],
-   "category": "avisos_grupo",
-   "title": "Amigo, você leu as regras do grupo?",
    "icon": "",
    "replyTo": null
   },
@@ -1014,17 +1004,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "me passa esse bizu no privado, por favor.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 91,
-   "date": "22/08/25",
-   "sender": "Veterano #31",
-   "text": "Atenção as regras do grupo",
-   "urls": [],
-   "category": "avisos_grupo",
-   "title": "Atenção as regras do grupo",
    "icon": "",
    "replyTo": null
   },
@@ -1942,17 +1921,6 @@
    "replyTo": null
   },
   {
-   "id": 175,
-   "date": "28/08/25",
-   "sender": "Veterano #9",
-   "text": "Boa tarde.... Publicação do Balcão de Negócios dos Veteranos....👆🏼👆🏼👆🏼👆🏼👆🏼",
-   "urls": [],
-   "category": "avisos_grupo",
-   "title": "Boa tarde.... Publicação do Balcão de Negócios dos Veteranos....👆🏼👆🏼👆🏼👆🏼👆🏼",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 176,
    "date": "28/08/25",
    "sender": "Veterano #8",
@@ -2092,7 +2060,7 @@
    "urls": [
     "https://youtu.be/FNIBArrBhJc?si=oAtMTecxAk8Am92f"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -2210,12 +2178,12 @@
   {
    "id": 199,
    "date": "28/08/25",
-   "sender": "Roberto Jesus",
+   "sender": null,
    "text": "A forma mais segura, sem aventuras e riscos, é através de Vistos.",
    "urls": [
     "https://www2.gov.pt/servicos/pedir-um-visto-de-residencia-para-fixacao-de-residencia-de-reformados-religiosos-e-pessoas-que-vivem-de-rendimentos-proprios"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "A forma mais segura, sem aventuras e riscos, é através de Vistos.",
    "icon": "",
    "replyTo": null
@@ -2272,7 +2240,7 @@
    "urls": [
     "https://youtu.be/Kl_dAv4A6Xo?si=BPfYbGYF-QEKRNje"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -2879,7 +2847,7 @@
    "urls": [
     "https://www.instagram.com/casa_e_ninho?igsh=NThkcHh6MTBkamFs"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -3571,7 +3539,9 @@
    "date": "04/09/25",
    "sender": "Veterano #52",
    "text": "Bom dia. Qual a possibilidade de algum amigo me falar se a prova de vida feita pela Gov.br , é válida.",
-   "urls": [],
+   "urls": [
+    "https://www.gov.br/pt-br"
+   ],
    "category": "diversos_texto",
    "title": "Bom dia. Qual a possibilidade de algum amigo me falar se a prova de vida feita pela Gov.br , é válida.",
    "icon": "",
@@ -3637,7 +3607,9 @@
    "date": "04/09/25",
    "sender": "Veterano #43",
    "text": "AFI. Fiz minha prova de vida, via  gov.br, agora no mês de agosto. É só colocar no google \"prova de vida, via gov.br\" e o caminho é disponibilizado.",
-   "urls": [],
+   "urls": [
+    "https://www.gov.br/pt-br"
+   ],
    "category": "diversos_texto",
    "title": "AFI. Fiz minha prova de vida, via  gov.br, agora no mês de agosto. É só colocar no google \"prova de vida, via gov.br\" e o caminho é disponibilizado.",
    "icon": "",
@@ -3756,17 +3728,6 @@
    "replyTo": null
   },
   {
-   "id": 339,
-   "date": "04/09/25",
-   "sender": "Veterano #9",
-   "text": "Bom dia...... Publicação do Balcão de Negócios dos Veteranos....👆🏼👆🏼👆🏼👆🏼👆🏼",
-   "urls": [],
-   "category": "avisos_grupo",
-   "title": "Bom dia...... Publicação do Balcão de Negócios dos Veteranos....👆🏼👆🏼👆🏼👆🏼👆🏼",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 340,
    "date": "04/09/25",
    "sender": "5521-SO Mesquita",
@@ -3851,7 +3812,7 @@
    "urls": [
     "https://play.google.com/store/apps/details?id=br.mil.marinha.bono"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -5418,7 +5379,7 @@
    "urls": [
     "https://linktr.ee/amnemnovafriburgo?fbclid=PAb21jcANMvTtleHRuA2FlbQIxMQABp1E1CK0NnUfY8Wzug5yOKYHHRsCgoyUt-kQEodq3NXZmeWdtdQ8w_G2pcpdU_aem_CRsgXQ7FWfiB1EEK4hZdvg"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -6542,7 +6503,7 @@
    "urls": [
     "https://www.instagram.com/reel/DP8vsyJDV-x/?igsh=MWFpZjYwZGdjam11ag=="
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -7017,7 +6978,7 @@
    "urls": [
     "https://www.youtube.com/channel/UCe2omYc--g8g7cApv80Nl5A"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -11073,7 +11034,7 @@
    "urls": [
     "https://youtu.be/RMOj-taNGoo?si=uKvaGze2OgcINlVW"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -12410,7 +12371,7 @@
    "urls": [
     "https://sacoemaca.blogspot.com/2025/10/svpm-declaracao-de-beneficiarios-dba-e.html?m=1"
    ],
-   "category": "links_uteis",
+   "category": "familia_naval",
    "title": "ATENTOS VETERANOS!",
    "icon": "",
    "replyTo": null
@@ -12497,12 +12458,12 @@
   {
    "id": 1131,
    "date": "29/10/25",
-   "sender": "Roberto Jesus",
+   "sender": null,
    "text": "O sougov.Br é para o pessoal civil. No nosso caso, deves usar o gov.br.",
    "urls": [
     "https://play.google.com/store/apps/details?id=br.gov.meugovbr"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "O sougov.Br é para o pessoal civil. No nosso caso, deves usar o gov.br.",
    "icon": "",
    "replyTo": null
@@ -12668,17 +12629,6 @@
    "replyTo": null
   },
   {
-   "id": 1146,
-   "date": "30/10/25",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "ADMIN",
-   "urls": [],
-   "category": "avisos_grupo",
-   "title": "ADMIN",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 1147,
    "date": "30/10/25",
    "sender": "Veterano #49",
@@ -12697,7 +12647,7 @@
    "urls": [
     "https://play.google.com/store/apps/details?id=br.mil.marinha.bono"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -12733,7 +12683,7 @@
     "https://www.sociedademilitar.com.br/2025/10/muitos-militares-podem-ter-isencao-de-imposto-de-renda-mas-falta-informacao-afirmacao-de-suboficial-da-reserva-acende-luzes-de-alerta.html?utm_source=wpp&utm_medium=grupos",
     "https://chat.whatsapp.com/BfJIGS0g8CJ54pKp3HbFBD?mode=wwc"
    ],
-   "category": "vagas_ttc",
+   "category": "contatos_uteis",
    "title": "Muitos militares podem ter isenção de imposto de renda, mas falta informação: afirmação de suboficial da reserva acende luzes de alerta",
    "icon": "",
    "replyTo": null
@@ -13232,7 +13182,7 @@
    "urls": [
     "https://portal6.com.br/2025/10/07/certidao-de-nascimento-casamento-e-obito-agora-podem-ser-puxadas-pela-internet-sem-precisar-ir-ao-cartorio/"
    ],
-   "category": "links_uteis",
+   "category": "documentos_dependencia",
    "title": "Agora você acessa documentos essenciais pela internet com segurança, sem deslocamentos, com pouca burocracia e de forma agilizada.",
    "icon": "",
    "replyTo": null
@@ -13501,7 +13451,7 @@
    "urls": [
     "https://share.google/thOYFk8qLT9J5gZJx"
    ],
-   "category": "links_uteis",
+   "category": "familia_naval",
    "title": "Login - Bono Marinha",
    "icon": "",
    "replyTo": null
@@ -13547,7 +13497,7 @@
    "urls": [
     "https://www.facebook.com/share/v/1JhKLAVZTJ/"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -13863,12 +13813,12 @@
   {
    "id": 1253,
    "date": "04/11/25",
-   "sender": "Roberto Jesus",
+   "sender": null,
    "text": "Login - Bono Marinha",
    "urls": [
     "https://play.google.com/store/apps/details?id=br.mil.marinha.bono"
    ],
-   "category": "links_uteis",
+   "category": "familia_naval",
    "title": "Login - Bono Marinha",
    "icon": "",
    "replyTo": null
@@ -13899,8 +13849,10 @@
    "id": 1256,
    "date": "04/11/25",
    "sender": "Veterano #127",
-   "text": "Participo que realizei a Prova de Vida, agora no site ORG.BR, após fazer a  Leitura Facial, perfeito.",
-   "urls": [],
+   "text": "Participo que realizei a Prova de Vida, agora no site https://www.gov.br/pt-br, após fazer a  Leitura Facial, perfeito.",
+   "urls": [
+    "https://www.gov.br/pt-br"
+   ],
    "category": "diversos_texto",
    "title": "Participo que realizei a Prova de Vida, agora no site ORG.BR, após fazer a  Leitura Facial, perfeito.",
    "icon": "",
@@ -14774,7 +14726,7 @@
    "urls": [
     "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:31b961e8-9c8a-46c8-ac57-bee3930a678e"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -15106,7 +15058,7 @@
    "urls": [
     "https://g1.globo.com/economia/imposto-de-renda/noticia/2025/11/05/ir-calculadoras-mostram-quanto-voce-deixara-de-pagar-e-o-que-muda-para-quem-tem-alta-renda.ghtml"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -15262,7 +15214,7 @@
    "urls": [
     "https://sacoemaca.blogspot.com/2025/11/svpm-fraudes-contra-veteranos-e.html"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -17598,7 +17550,7 @@
    "sender": "Veterano #197",
    "text": "Boa tarde a todos; gostaria  de tirar  uma dúvida. Sou casado e há algum tempo pensiono  minha esposa , com  P.A . A dúvida é a seguinte, em caso do meu falecimento  ela terá todos os direitos  dos meus provemtos. Tenho uma filha  mas , não  pago 1.5%.",
    "urls": [],
-   "category": "falecimento",
+   "category": "documentos_dependencia",
    "title": "Boa tarde a todos; gostaria  de tirar  uma dúvida. Sou casado e há algum tempo pensiono  minha esposa , com  P.A . A dúvida é a seguinte, em caso do m…",
    "icon": "",
    "replyTo": null
@@ -17963,7 +17915,7 @@
    "urls": [
     "https://www.instagram.com/emporionaval?igsh=MXFzdTFla3g0NHFuNg=="
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -18634,7 +18586,7 @@
    "sender": "Veterano #22",
    "text": "Só pensão.  A menos que seja considerada inválida antes do falecimento do pai.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Só pensão.  A menos que seja considerada inválida antes do falecimento do pai.",
    "icon": "",
    "replyTo": null
@@ -19100,7 +19052,7 @@
    "sender": "Veterano #22",
    "text": "Só a título de informação,  vcs que tem filhos nessas condições, sabem que podem comprar carro com isenção de impostos e não pagar o IPVA? E aconselho tbm fazer um pedido para inspeção de saúde de dependente para comprovação de invalidez para que não precisar ficar renovando na época.  E principalmente se vc falecer eles já ficam comprovado a invalidez antes do falecimento do pai e quando forem entrar na pensão não perderem a AMH, não pagarem o IR e o desconto da contribuição MNTLP invés de ser 3% será de 1,5%",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Só a título de informação,  vcs que tem filhos nessas condições, sabem que podem comprar carro com isenção de impostos e não pagar o IPVA? E aconselho…",
    "icon": "",
    "replyTo": null
@@ -19314,7 +19266,7 @@
     "https://apps.apple.com/br/app/bono-online/id6738963469",
     "https://play.google.com/store/apps/details?id=br.mil.marinha.bono&pcampaignid=web_share"
    ],
-   "category": "links_uteis",
+   "category": "familia_naval",
    "title": "*MANTENHA-SE ATUALIZADO:*",
    "icon": "",
    "replyTo": null
@@ -19369,7 +19321,7 @@
    "sender": "TTC-Josafá",
    "text": "Quando eu fiz o meu financiamento imobiliário, fui informado pela atendente, no meu caso a POUPEX, que é exigência dos bancos/financeiras ter uma cobertura de seguro. A contratação desse seguro garante o pagamento da dívida em caso de imprevistos com o mutuário ou o próprio imóvel, protegendo tanto o comprador quanto a instituição financeira.",
    "urls": [],
-   "category": "vagas_ttc",
+   "category": "financas_beneficios",
    "title": "Quando eu fiz o meu financiamento imobiliário, fui informado pela atendente, no meu caso a POUPEX, que é exigência dos bancos/financeiras ter uma cobe…",
    "icon": "",
    "replyTo": null
@@ -19853,7 +19805,7 @@
    "sender": "5521-TTC-Paulo Henrique",
    "text": "Essa foi a informação que recebi do banco Daycoval ao solicitar um refinanciamento. \n👇🏾👇🏾👇🏾👇🏾\n\"Analisamos o seu pedido de empréstimo consignado e, neste momento, não conseguimos seguir com a sua solicitação em razão da recente decisão firmada pelo Superior Tribunal de Justiça no Resp nº 2145185 (Tema 1286) de 21 de março de 2025. \nTal decisão estabeleceu o limite de 35% para concessão de novas operações de crédito consignado aos integrantes das Forças Armadas.\n\nNeste momento, seu limite (35%) já está comprometido impedindo as novas contratações.\n\nAproveitamos para informar que o Banco Daycoval, junto a outras Instituições, está buscando reverter esta decisão junto ao Poder Judiciário, para voltarmos a conceder empréstimos até o limite de 70%. \n\nPara mais informações, orientamos que procure a administração do seu órgão empregador.\"",
    "urls": [],
-   "category": "vagas_ttc",
+   "category": "financas_beneficios",
    "title": "Essa foi a informação que recebi do banco Daycoval ao solicitar um refinanciamento.",
    "icon": "",
    "replyTo": null
@@ -21487,7 +21439,7 @@
    "urls": [
     "https://vt.tiktok.com/ZSfGbXLCq/"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -22047,19 +21999,6 @@
    "replyTo": null
   },
   {
-   "id": 1994,
-   "date": "03/12/25",
-   "sender": "5521-TTC-SO Fernando Veteranos E TTC",
-   "text": "",
-   "urls": [
-    "https://chat.whatsapp.com/KDnBxkG9lrLDalPl8M6q2u"
-   ],
-   "category": "avisos_grupo",
-   "title": "",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 1995,
    "date": "03/12/25",
    "sender": "5521-TTC-SO Fernando Veteranos E TTC",
@@ -22068,33 +22007,7 @@
     "https://chat.whatsapp.com/KDnBxkG9lrLDalPl8M6q2u"
    ],
    "category": "avisos_grupo",
-   "title": "",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 1996,
-   "date": "03/12/25",
-   "sender": "5521-TTC-SO Fernando Veteranos E TTC",
-   "text": "",
-   "urls": [
-    "https://chat.whatsapp.com/KDnBxkG9lrLDalPl8M6q2u"
-   ],
-   "category": "avisos_grupo",
-   "title": "",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 1997,
-   "date": "03/12/25",
-   "sender": "5521-TTC-SO Fernando Veteranos E TTC",
-   "text": "",
-   "urls": [
-    "https://chat.whatsapp.com/KDnBxkG9lrLDalPl8M6q2u"
-   ],
-   "category": "avisos_grupo",
-   "title": "",
+   "title": "Grupo Bota pra rolo BRIOSA 1",
    "icon": "",
    "replyTo": null
   },
@@ -22107,7 +22020,7 @@
     "https://chat.whatsapp.com/CUqNRLaVtyZ8x8AKttvgZv"
    ],
    "category": "avisos_grupo",
-   "title": "",
+   "title": "Grupo Bota pra rolo BRIOSA 5",
    "icon": "",
    "replyTo": null
   },
@@ -23083,7 +22996,7 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "REGRAS DO GRUPO \n\n*Grupo TTC e Veteranos*\n\nFoi criado um grupo no WhatsApp com o objetivo de transmitir informações úteis para militares na reserva, reformados e TTC. A função do Grupo é ajudar os participantes no acesso aos meios legais, dentro do regulamento. Quem desejar participar deve entrar em contato pelo número +55 21 97500-3195, SO Mesquita. \n\nAs seguintes regras devem ser seguidas para o bom funcionamento do grupo:\n\nPostagens proibidas:\n. Mensagens sem conteúdo útil, como \"bom dia\", \"boa semana\", \"sextou\", emojis etc. \n\n. Mensagens sobre esportes, principalmente futebol, só ocupam espaço e não agregam. \n\n. Mensagens que divulgam modos de *chutar* ou lesar o Sistema Naval. \n\n. Mensagens que *malhem* a Marinha. \n\n. Mensagens de conteúdo político e/ou pornô - o autor será expulso imediatamente do grupo. \n\n. Mensagens com propaganda de qualquer tipo. \n\nPostagens permitidas:\n. Notas de falecimento - apesar de desagradáveis, podem é devem ser postadas no Grupo, desde que tragam todas as informações, como nome do falecido local e hora de velório e sepultamento, telefones de familiares. No entanto não é permitido o envio de condolências ou orações. As mesmas devem ser enviadas aos contatos de familiares e amigos. \n\n. O grupo também adotará a Lei do Silêncio: entre as 22:00 e as 6:00 somente postagens de *emergência*. \n\nÉ importante salientar que já tivemos informes de militares da Inteligência, que se infiltraram nos grupos só para ficar de olho nas postagens. Nós sabemos que a MB tem suas dificuldades, principalmente na área da saúde. Mas o objetivo deste grupo é apontar caminhos lícitos em busca de soluções. Opiniões pessoais não serão toleradas nas postagens. Vamos manter o bom convívio e evitar o constrangimento de ter mensagens apagadas ou ser excluído do grupo.",
    "urls": [],
-   "category": "falecimento",
+   "category": "avisos_grupo",
    "title": "REGRAS DO GRUPO",
    "icon": "",
    "replyTo": null
@@ -23661,17 +23574,6 @@
    "replyTo": null
   },
   {
-   "id": 2138,
-   "date": "15/12/25",
-   "sender": "Veterano #72",
-   "text": "Veja o balcão de negócios 👆🏽",
-   "urls": [],
-   "category": "avisos_grupo",
-   "title": "Veja o balcão de negócios 👆🏽",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 2139,
    "date": "15/12/25",
    "sender": "TTC+VALDEGIR SIQUEIRA",
@@ -24142,7 +24044,7 @@
     "https://www.sociedademilitar.com.br/2025/12/saude-nas-forcas-armadas-como-um-militar-do-exercito-sera-atendido-em-um-hospital-da-marinha-ou-da-aeronautica-a-regulacao-da-interoperabilidade.html#goog_rewarded",
     "https://www.in.gov.br/web/dou/-/instrucao-normativa-conjunta-sepesd/sg-md-n-3-de-1-de-dezembro-de-2025-675152703"
    ],
-   "category": "vagas_ttc",
+   "category": "saude_atendimento",
    "title": "- Publicado em 15DEZ. Uma nova Instrução Normativa (SEPESD/SG-MD nº 3, de 01DEZ2025) publicada no Diário Oficial da União (DOU), de 15DEZ2025, estabel…",
    "icon": "",
    "replyTo": null
@@ -25398,7 +25300,7 @@
    "urls": [
     "https://share.google/hbq7aP596oJ7NBg7p"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Forças Armadas: mais da metade dos militares não pagará IR a partir de 2026 | CNN Brasil",
    "icon": "",
    "replyTo": null
@@ -26005,7 +25907,7 @@
    "urls": [
     "https://share.google/TWVmiCb0by84KO0X1"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -26601,7 +26503,7 @@
    "urls": [
     "https://share.google/a6G555CZ2s1KWmUnD"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Postos de Atendimento | Serviço de Veteranos e Pensionistas da Marinha",
    "icon": "",
    "replyTo": null
@@ -27208,7 +27110,7 @@
    "urls": [
     "https://share.google/SC5eQb8yK8tDHbIMN"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "SIGMA LOGIN",
    "icon": "",
    "replyTo": null
@@ -27378,7 +27280,7 @@
    "urls": [
     "https://www.facebook.com/share/1FgTsj2JE9/"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -27864,7 +27766,7 @@
    "sender": "Veterano #96",
    "text": "Boa noite, alguém pode me orientar, como posso cancelar desconto \"DSS ASS POST,\" referente ao meu que faleceu em novembro ?",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Boa noite, alguém pode me orientar, como posso cancelar desconto \"DSS ASS POST,\" referente ao meu que faleceu em novembro ?",
    "icon": "",
    "replyTo": null
@@ -28156,7 +28058,7 @@
    "urls": [
     "https://share.google/aimode/BxbRoc56tGOHbzvNq"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -28632,7 +28534,7 @@
     "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:62320947-7e59-4844-8935-7a29bdbff102",
     "https://adobeacrobat.app.link/m4k4L0KX6Zb"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Confira o documento de Manoel.",
    "icon": "",
    "replyTo": null
@@ -28678,7 +28580,7 @@
    "urls": [
     "https://acrobat.adobe.com/id/urn:aaid:sc:US:16a65dcf-8047-452b-ab5f-ed777745ad4b"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -28878,7 +28780,7 @@
    "urls": [
     "https://youtu.be/B867s4t5qTc?si=8ubngWVPInuFaASw"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -28988,7 +28890,7 @@
    "sender": "Veterano #234",
    "text": "Bom dia....\nAlguém sabe o telefone do SVPM para comunicar falecimento de militar?",
    "urls": [],
-   "category": "falecimento",
+   "category": "contatos_uteis",
    "title": "Bom dia....",
    "icon": "",
    "replyTo": null
@@ -29357,7 +29259,7 @@
    "urls": [
     "https://share.google/AFTHmZAw0ShcNYxJm"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Postos Avançados de Identificação | Serviço de Identificação da Marinha",
    "icon": "",
    "replyTo": null
@@ -30662,7 +30564,7 @@
    "urls": [
     "https://share.google/aimode/xsezzUar9ea5U5Ydz"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -30930,7 +30832,7 @@
    "urls": [
     "https://g.co/gemini/share/c74d0ed04b0e"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -31196,7 +31098,7 @@
    "urls": [
     "https://play.google.com/store/apps/details?id=br.mil.mar.sim.iddigitalmarinha"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -31770,7 +31672,7 @@
    "sender": "Veterano #22",
    "text": "Boa tarde. É isso mesmo. Passa a ser pensionista perde o direito a amh. A menos que tenha doença crônica,  que tem fazer um requerimento ou inválida antes do falecimento do pai.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Boa tarde. É isso mesmo. Passa a ser pensionista perde o direito a amh. A menos que tenha doença crônica,  que tem fazer um requerimento ou inválida a…",
    "icon": "",
    "replyTo": null
@@ -31814,7 +31716,7 @@
    "sender": "Veterano #157",
    "text": "Desculpa a intromissão. A não ser que tenha mudado alguma coisa. Eu já fui escrivão de inquérito por causa desse negócio de continuar recebendo na mesma conta depois do falecimento. Não sei se é o caso. Peço não responder. É só uma observação.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Desculpa a intromissão. A não ser que tenha mudado alguma coisa. Eu já fui escrivão de inquérito por causa desse negócio de continuar recebendo na mes…",
    "icon": "",
    "replyTo": null
@@ -32599,7 +32501,7 @@
    "urls": [
     "https://share.google/9OvOf3chtCYafMTuk"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "10ª Circunscrição do Registro Civil - RJ",
    "icon": "",
    "replyTo": null
@@ -32742,7 +32644,7 @@
    "sender": "TTC+Val",
    "text": "Alguem sabe me informar o valor que a filha receberá no caso do falecimento do pai??\nIsso referente ao desconto de 1,5% no BP.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Alguem sabe me informar o valor que a filha receberá no caso do falecimento do pai??",
    "icon": "",
    "replyTo": null
@@ -32786,7 +32688,7 @@
    "sender": "TTC+Wagner",
    "text": "Primeiro o total é da esposa, só após falecimento da esposa ficará para filha",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Primeiro o total é da esposa, só após falecimento da esposa ficará para filha",
    "icon": "",
    "replyTo": null
@@ -32843,7 +32745,7 @@
    "urls": [
     "https://www.google.com/search?q=pens%C3%A3o+para+filha+de+militar&oq=pens%C3%A3o+para+&gs_lcrp=EgZjaHJvbWUqBwgEEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIHCAsQABiABDIHCAwQABiABDIHCA0QABiABDIHCA4QABiABNIBCTEyNTc4ajBqN6gCFLACAfEFo74ZP49_2y_xBaO-GT-Pf9sv&client=ms-android-motorola-rvo3&sourceid=chrome-mobile&ie=UTF-8"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -33054,7 +32956,7 @@
    "urls": [
     "https://seletivo.seplag.mt.gov.br/detalhes/45"
    ],
-   "category": "vagas_ttc",
+   "category": "links_uteis",
    "title": "🚨💰 ATENÇÃO, EX-MILITAR! OPORTUNIDADE IMPERDÍVEL NA SEDUC-MT! 💰🚨",
    "icon": "",
    "replyTo": null
@@ -33485,7 +33387,7 @@
    "urls": [
     "https://www.scribd.com/document/575104545/Circ-24-2021-DFM-PAG-IMED-050-2"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -34367,17 +34269,6 @@
    "replyTo": null
   },
   {
-   "id": 3104,
-   "date": "06/03/26",
-   "sender": "Roberto Jesus",
-   "text": "Eliminou esta mensagem",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Eliminou esta mensagem",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 3105,
    "date": "08/03/26",
    "sender": "5521-TTC-Paulo Henrique",
@@ -34827,7 +34718,7 @@
    "urls": [
     "https://whatsapp.com/channel/0029VaDLUD396H4U21JiHL0G"
    ],
-   "category": "avisos_grupo",
+   "category": "familia_naval",
    "title": "Siga o canal \"Serviço de Veteranos e Pensionistas da Marinha (SVPM)\" no WhatsApp:",
    "icon": "",
    "replyTo": null
@@ -34860,7 +34751,7 @@
    "sender": "TTC-a q b",
    "text": "Boa noite Srs!\n\nAlgum colega que trabalhe no SVPM para tirar uma dúvida e ajudar um filho de um colega que faleceu semana passada?",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Boa noite Srs!",
    "icon": "",
    "replyTo": null
@@ -35275,19 +35166,6 @@
    "replyTo": null
   },
   {
-   "id": 3186,
-   "date": "13/03/26",
-   "sender": "Veterano #22",
-   "text": "Siga o canal \"Serviço de Veteranos e Pensionistas da Marinha (SVPM)\" no WhatsApp:",
-   "urls": [
-    "https://whatsapp.com/channel/0029VaDLUD396H4U21JiHL0G"
-   ],
-   "category": "avisos_grupo",
-   "title": "Siga o canal \"Serviço de Veteranos e Pensionistas da Marinha (SVPM)\" no WhatsApp:",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 3187,
    "date": "13/03/26",
    "sender": "5521-TTC-Sabino Veterano IRPF",
@@ -35647,7 +35525,7 @@
    "sender": "TTC-Ramiro Dias Santos Neto",
    "text": "MARINHA DO BRASIL\nDIRETORIA DE COMUNICAÇÕES E TECNOLOGIA DA INFORMAÇÃO DA MARINHA\nBOLETIM DE ORDENS E NOTÍCIAS\nNº 48 DE 16 DE MARÇO DE 2026\n\nGERAL\nBONO ESPECIAL N° 4\nSERVIÇO DE VETERANOS E PENSIONISTAS DA MARINHA\nOrientações sobre pensão para filho(a) inválido(a) - Com o objetivo de evitar dificuldades na futura habilitação à pensão por filho(a) inválido(a), orienta-se que militares e servidores civis que possuam dependentes nessa condição adotem algumas providências ainda em vida, a fim de facilitar a comprovação dos requisitos legais.\n\nPensão Militar:\n\nEste Serviço tem recebido requerimentos de pensão militar para filhos(as) inválidos(as) nos quais não é apresentado o Termo de Inspeção de Saúde (TIS) emitido por Junta Médica Militar (JMM), documento necessário para comprovar que a invalidez já existia antes do falecimento do instituidor da pensão.\n\nA apresentação desse documento constitui requisito essencial para a concessão da pensão militar, conforme estabelece o art. 12, § 6º, do Decreto nº 10.742/2021.\n\nDessa forma, recomenda-se que o militar que possua filho(a) com doença incapacitante solicite, ainda em vida, a realização de Inspeção de Saúde por Junta Médica Militar, com a finalidade de formalizar a condição de invalidez mediante a emissão do respectivo Termo de Inspeção de Saúde (TIS).\n\nA adoção dessa providência contribui significativamente para dar maior segurança jurídica e celeridade à análise do futuro processo de habilitação à pensão militar.\n\nPensão Civil:\n\nPara fins de futura habilitação à pensão civil por filho inválido, também é recomendável que o servidor providencie o Termo de Inspeção de Saúde (TIS) emitido por Junta Médica Oficial, ainda em vida, no qual conste expressamente que a invalidez é preexistente ao eventual óbito do instituidor, requisito fundamental para o reconhecimento do direito.\n\nQuanto à dependência econômica, embora a legislação trate a dependência do filho inválido de forma relativa ou presumida, é prudente manter documentos que a evidenciem na prática, tais como:\n\n- inclusão como dependente no Imposto de Renda;\n\n- inclusão em plano de saúde; e\n\n- outros registros que demonstrem a manutenção econômica pelo instituidor.\n\nEsses elementos contribuem para tornar a análise administrativa mais segura e célere.\n\nNesses casos com relação à curatela esclarece-se que a Portaria SGP/SEDGG/ME nº 4.645/2022 não estabelece a curatela como requisito obrigatório para a concessão da pensão ao filho inválido.\n\nA curatela poderá ser exigida apenas em situações específicas, quando houver necessidade de representação legal do dependente em razão de incapacidade civil para a prática dos atos da vida civil. Assim, sua apresentação será analisada caso a caso, conforme as circunstâncias concretas do dependente.\n\n“Servir com qualidade a quem serviu à Marinha do Brasil com dedicação”.",
    "urls": [],
-   "category": "falecimento",
+   "category": "contatos_uteis",
    "title": "MARINHA DO BRASIL",
    "icon": "",
    "replyTo": null
@@ -35990,7 +35868,7 @@
    "urls": [
     "https://www.youtube.com/live/0or6i-yKDT0?si=PzIHXnOd7Ifmdtvt"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "...ENVIAR DOCUMENTOS.",
    "icon": "",
    "replyTo": null
@@ -36533,7 +36411,7 @@
    "urls": [
     "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:239c4f8a-2db1-48d8-8839-f31067f8509e"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -36634,7 +36512,7 @@
    "urls": [
     "https://share.google/VJ1xrRkKX869993Xr"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Postos Avançados de Identificação | Serviço de Identificação da Marinha",
    "icon": "",
    "replyTo": null
@@ -37010,7 +36888,7 @@
    "sender": "TTC+Silvio",
    "text": "⚠️ COMUNICADO IMPORTANTE: ATUALIZAÇÃO JURÍDICA (FUSEX / FUSMA / FUNSA) – MARÇO/2026\nInformamos a todos os militares, dependentes e pensionistas sobre o Trânsito em Julgado do Tema 1.080 do STJ, que consolida as regras de manutenção da assistência médica nas Forças Armadas.\nO que mudou com a decisão definitiva?\nTeto de Rendimentos: O dependente não pode receber rendimentos próprios iguais ou superiores a 1 (um) salário mínimo bruto.\nPensão Militar como Renda: A grande novidade confirmada pelo STJ é que as Pensões Militares passam a ser contabilizadas como rendimento próprio. Se a pensão for superior a um salário mínimo, o beneficiário perde a condição de dependente para fins de assistência médica.\nNatureza do Benefício: A justiça entendeu que a assistência à saúde (FUSEX/FUSMA/FUNSA) não é um direito adquirido, mas sim um benefício condicional à demonstração de dependência econômica real.\nResumo da Situação:\nFiscalização: As Forças estão autorizadas a realizar o cruzamento de dados (CPF) e excluir quem ultrapassar o teto de renda.\nExclusão não automática: Cada caso deve ser analisado individualmente, respeitando o direito ao contraditório administrativo.\nAções Judiciais: Pensionistas em tratamento de saúde grave ou com direitos baseados em leis anteriores ao falecimento do instituidor devem procurar orientação jurídica especializada para avaliar medidas cabíveis.\n*Fonte: Jurisprudência STJ (Tema 1.080) - Março de 2026.*",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "⚠️ COMUNICADO IMPORTANTE: ATUALIZAÇÃO JURÍDICA (FUSEX / FUSMA / FUNSA) – MARÇO/2026",
    "icon": "",
    "replyTo": null
@@ -37461,7 +37339,7 @@
    "sender": "Veterano #256",
    "text": "⚠️ COMUNICADO IMPORTANTE: ATUALIZAÇÃO JURÍDICA (FUSEX / FUSMA / FUNSA) – MARÇO/2026\nInformamos a todos os militares, dependentes e pensionistas sobre o Trânsito em Julgado do Tema 1.080 do STJ, que consolida as regras de manutenção da assistência médica nas Forças Armadas.\nO que mudou com a decisão definitiva?\nTeto de Rendimentos: O dependente não pode receber rendimentos próprios iguais ou superiores a 1 (um) salário mínimo bruto.\nPensão Militar como Renda: A grande novidade confirmada pelo STJ é que as Pensões Militares passam a ser contabilizadas como rendimento próprio. Se a pensão for superior a um salário mínimo, o beneficiário perde a condição de dependente para fins de assistência médica.\nNatureza do Benefício: A justiça entendeu que a assistência à saúde (FUSEX/FUSMA/FUNSA) não é um direito adquirido, mas sim um benefício condicional à demonstração de dependência econômica real.\nResumo da Situação:\nFiscalização: As Forças estão autorizadas a realizar o cruzamento de dados (CPF) e excluir quem ultrapassar o teto de renda.\nExclusão não automática: Cada caso deve ser analisado individualmente, respeitando o direito ao contraditório administrativo.\nAções Judiciais: Pensionistas em tratamento de saúde grave ou com direitos baseados em leis anteriores ao falecimento do instituidor devem procurar orientação jurídica especializada para avaliar medidas cabíveis.\n*Fonte: Jurisprudência STJ (Tema 1.080) - Março de 2026.*",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "⚠️ COMUNICADO IMPORTANTE: ATUALIZAÇÃO JURÍDICA (FUSEX / FUSMA / FUNSA) – MARÇO/2026",
    "icon": "",
    "replyTo": null
@@ -37783,7 +37661,7 @@
     "https://clube.emporio-naval.com.br",
     "https://www.emporio-naval.com.br/"
    ],
-   "category": "links_uteis",
+   "category": "familia_naval",
    "title": "🎬🍔 VOCÊ SABIA?! – EMPÓRIO NAVAL",
    "icon": "",
    "replyTo": null
@@ -38135,7 +38013,7 @@
    "sender": "TTC+Wagner",
    "text": "⚠️ COMUNICADO IMPORTANTE: ATUALIZAÇÃO JURÍDICA (FUSEX / FUSMA / FUNSA) – MARÇO/2026\nInformamos a todos os militares, dependentes e pensionistas sobre o Trânsito em Julgado do Tema 1.080 do STJ, que consolida as regras de manutenção da assistência médica nas Forças Armadas.\nO que mudou com a decisão definitiva?\nTeto de Rendimentos: O dependente não pode receber rendimentos próprios iguais ou superiores a 1 (um) salário mínimo bruto.\nPensão Militar como Renda: A grande novidade confirmada pelo STJ é que as Pensões Militares passam a ser contabilizadas como rendimento próprio. Se a pensão for superior a um salário mínimo, o beneficiário perde a condição de dependente para fins de assistência médica.\nNatureza do Benefício: A justiça entendeu que a assistência à saúde (FUSEX/FUSMA/FUNSA) não é um direito adquirido, mas sim um benefício condicional à demonstração de dependência econômica real.\nResumo da Situação:\nFiscalização: As Forças estão autorizadas a realizar o cruzamento de dados (CPF) e excluir quem ultrapassar o teto de renda.\nExclusão não automática: Cada caso deve ser analisado individualmente, respeitando o direito ao contraditório administrativo.\nAções Judiciais: Pensionistas em tratamento de saúde grave ou com direitos baseados em leis anteriores ao falecimento do instituidor devem procurar orientação jurídica especializada para avaliar medidas cabíveis.\n*Fonte: Jurisprudência STJ (Tema 1.080) - Março de 2026.*",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "⚠️ COMUNICADO IMPORTANTE: ATUALIZAÇÃO JURÍDICA (FUSEX / FUSMA / FUNSA) – MARÇO/2026",
    "icon": "",
    "replyTo": null
@@ -39325,7 +39203,7 @@
    "urls": [
     "https://www.cecierj.edu.br/2026/04/06/vestibular-cederj-2026-2-abertas-as-inscricoes-para-7-505-vagas-nas-universidades-publicas-do-rio/"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -39716,17 +39594,6 @@
    "replyTo": null
   },
   {
-   "id": 3588,
-   "date": "12/04/26",
-   "sender": "Veterano #15",
-   "text": "Balcão de negócios",
-   "urls": [],
-   "category": "avisos_grupo",
-   "title": "Balcão de negócios",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 3589,
    "date": "12/04/26",
    "sender": "Veterano #15",
@@ -40106,7 +39973,7 @@
    "sender": "Veterano #244",
    "text": "[27/03, 12:50] Ricardo: ⚠️ COMUNICADO IMPORTANTE: ATUALIZAÇÃO JURÍDICA (FUSEX / FUSMA / FUNSA) – MARÇO/2026\nInformamos a todos os militares, dependentes e pensionistas sobre o Trânsito em Julgado do Tema 1.080 do STJ, que consolida as regras de manutenção da assistência médica nas Forças Armadas.\nO que mudou com a decisão definitiva?\nTeto de Rendimentos: O dependente não pode receber rendimentos próprios iguais ou superiores a 1 (um) salário mínimo bruto.\nPensão Militar como Renda: A grande novidade confirmada pelo STJ é que as Pensões Militares passam a ser contabilizadas como rendimento próprio. Se a pensão for superior a um salário mínimo, o beneficiário perde a condição de dependente para fins de assistência médica.\nNatureza do Benefício: A justiça entendeu que a assistência à saúde (FUSEX/FUSMA/FUNSA) não é um direito adquirido, mas sim um benefício condicional à demonstração de dependência econômica real.\nResumo da Situação:\nFiscalização: As Forças estão autorizadas a realizar o cruzamento de dados (CPF) e excluir quem ultrapassar o teto de renda.\nExclusão não automática: Cada caso deve ser analisado individualmente, respeitando o direito ao contraditório administrativo.\nAções Judiciais: Pensionistas em tratamento de saúde grave ou com direitos baseados em leis anteriores ao falecimento do instituidor devem procurar orientação jurídica especializada para avaliar medidas cabíveis.\n*Fonte: Jurisprudência STJ (Tema 1.080) - Março de 2026.*\n\n[27/03, 12:50] Ricardo: Superior a um salário mínimo ☝🏾\n\n[27/03, 12:50] Ricardo: Esse tema voltou agora nos fóruns de direito militar. \nComo já sabemos, quando vem a berlinda, logo as forças começam a aplicar...\n\n[27/03, 12:50] Ricardo: 1. O foco nas Pensionistas (O caso central)\nA decisão tratou especificamente do direito de pensionistas militares (especialmente filhas e viúvas) de permanecerem usando o sistema de saúde das Forças Armadas (como o FUNSA, FUSEx ou FUSMA).\nA tese fixada: O STJ decidiu que a assistência médica não é um direito adquirido derivado da pensão.\nO critério: Se a pensionista recebe rendimentos (inclusive a própria pensão) em valor igual ou superior a um salário mínimo, ela perde a condição de \"dependente econômica\" e, consequentemente, o direito ao fundo de saúde.\n2. Atinge os Militares da Reserva ou Reformados?\nDiretamente, a tese do Tema 1080 foca nos dependentes e pensionistas. Para o militar (da reserva ou reformado), o direito à assistência médico-hospitalar é garantido pelo seu próprio vínculo com as Forças Armadas, e não pela condição de dependência econômica de outrem.\nNo entanto, há um reflexo indireto para o militar:\nDependentes no Prontuário: Se você tem dependentes cadastrados (filhos maiores, pais, etc.) que possuem renda própria acima de um salário mínimo, a administração militar agora tem \"carta branca\" da justiça para fazer fiscalizações periódicas e excluí-los do fundo de saúde.\nNatureza do Benefício: A decisão reforçou que a assistência à saúde militar é um \"benefício condicional\" e não previdenciário. Isso significa que o governo pode mudar as regras de acesso mais facilmente, desde que respeite a lei vigente.\n\n[27/03, 12:50] Ricardo: Decisão 1080/STJ \n*Até o relator mudou o voto!*\nAqui estão os nomes dos ministros envolvidos na composição e no julgamento: \n1. O Relator\nMinistro Afrânio Vilela: Inicialmente, o seu voto era mais favorável à manutenção do benefício para as pensionistas. No entanto, após o voto-vista do Ministro Francisco Falcão, ele se convenceu dos argumentos técnicos e reformulou o seu voto, passando a defender que não há direito adquirido ao regime de saúde se os requisitos de dependência (como a renda) deixarem de ser cumpridos.\n2. O Voto-Vista (Divergência que prevaleceu)\nMinistro Francisco Falcão: Foi quem apresentou os argumentos que levaram à tese mais restritiva. Ele defendeu que a assistência médica militar tem natureza assistencial e condicional, e não previdenciária, permitindo a exclusão de quem possui rendimentos próprios.\n3. Demais Ministros da Primeira Seção\nOs outros ministros que compõem o colegiado e acompanharam o relator na decisão unânime são:\nMinistro Herman Benjamin (Presidente da Seção na época do início ou conclusão de debates)\nMinistro Mauro Campbell Marques\nMinistro Benedito Gonçalves\nMinistro Sérgio Kukina\nMinistra Regina Helena Costa\nMinistro Gurgel de Faria\nMinistro Paulo Sérgio Domingues\nMinistra Teodoro Silva Santos\nResumo da votação:\nNão houve votos vencidos no resultado final. A decisão foi unânime (9 a 0) no sentido de que a administração militar pode fiscalizar e remover pensionistas do fundo de saúde caso estas recebam rendimentos (salários ou a própria pensão) que descaracterizem a dependência econômica. Resumo:\nOs dependentes do militar que ganham mais de um salário mínimo serão cortados da assistência médica. \nEx: filhos, pais, sobrinhos e etc. Os pensionistas, mulheres e filhas, que recebem a pensão acima de 1 salário também perdem a assistência médica. Só vai ficar o militar e seus dependentes enquanto viver.\nMorrendo o militar a viúva perde a assistência médica. As forças terão que informar o militar ou o pensionistas antes do corte para recurso administrativo. As forças terão as informações de renda cruzadas com o CPF.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "[27/03, 12:50] Ricardo: ⚠️ COMUNICADO IMPORTANTE: ATUALIZAÇÃO JURÍDICA (FUSEX / FUSMA / FUNSA) – MARÇO/2026",
    "icon": "",
    "replyTo": null
@@ -40526,7 +40393,7 @@
    "sender": "TTC-Alexandre Chagas",
    "text": "Situação: Militar solteiro ( Sargento) faleceu, como a família procede para resolver a situação na Marinha?",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Situação: Militar solteiro ( Sargento) faleceu, como a família procede para resolver a situação na Marinha?",
    "icon": "",
    "replyTo": null
@@ -40660,7 +40527,7 @@
    "urls": [
     "https://www.youtube.com/channel/UCe2omYc--g8g7cApv80Nl5A"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -40798,7 +40665,7 @@
    "urls": [
     "https://www.youtube.com/channel/UCe2omYc--g8g7cApv80Nl5A"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -42136,7 +42003,7 @@
    "urls": [
     "https://share.google/8THU3fN2jTPuybTZ6"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "STJ autoriza exclusão de dependentes com renda própria dos fundos de saúde militar - Montedo.com.br",
    "icon": "",
    "replyTo": null
@@ -42182,17 +42049,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Vou ver se esta atualizado",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 3811,
-   "date": "05/05/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Entra no Google e coloca Bp online Marinha",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Entra no Google e coloca Bp online Marinha",
    "icon": "",
    "replyTo": null
   },
@@ -42760,25 +42616,14 @@
    "replyTo": null
   },
   {
-   "id": 3863,
-   "date": "08/05/26",
-   "sender": "Roberto Jesus",
-   "text": "Eliminou esta mensagem",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Eliminou esta mensagem",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 3864,
    "date": "08/05/26",
-   "sender": "Roberto Jesus",
+   "sender": null,
    "text": "Que tal esta apresentação?",
    "urls": [
     "https://tinyurl.com/ttcnegocios"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Que tal esta apresentação?",
    "icon": "",
    "replyTo": null
@@ -42802,17 +42647,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "O PS não é ter boa ideia. O PS é saber se alguém se compromete a assumir a faina. Como eu falei, não tenho pernas pra assumir essa faina.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 3867,
-   "date": "08/05/26",
-   "sender": "Roberto Jesus",
-   "text": "Eliminou esta mensagem",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Eliminou esta mensagem",
    "icon": "",
    "replyTo": null
   },
@@ -43371,7 +43205,7 @@
    "urls": [
     "https://youtu.be/iQYXECWtX2M?si=k_FNxaoITWR5pwfl"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "",
    "icon": "",
    "replyTo": null
@@ -43847,7 +43681,7 @@
     "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e21309c1-c406-4361-be71-16d95099cc00",
     "https://adobeacrobat.app.link/IOhNqnkbf3b"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Confira o documento de Manoel.",
    "icon": "",
    "replyTo": null
@@ -43904,7 +43738,7 @@
    "urls": [
     "https://reference-url-citation.invalid/2"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Nota do STJ:",
    "icon": "",
    "replyTo": null
@@ -43913,12 +43747,12 @@
    "id": 3966,
    "date": "18/05/26",
    "sender": "TTC-の𝑧𝑖𝑒𝑙 Ᏸ𝑎𝑟𝑟𝑒𝑡𝑜",
-   "text": "",
+   "text": "Pensionista de militar não tem direito adquirido a regime juridíco de assistência médica das Forças Armadas",
    "urls": [
     "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2025/26032025-Pensionista-de-militar-nao-tem-direito-adquirido-a-regime-juridico-de-assistencia-medica-das-Forcas-Armadas.aspx?utm_source=chatgpt.com"
    ],
-   "category": "links_uteis",
-   "title": "",
+   "category": "contatos_uteis",
+   "title": "Pensionista de militar não tem direito adquirido...",
    "icon": "",
    "replyTo": null
   },
@@ -44007,7 +43841,7 @@
    "urls": [
     "https://whatsapp.com/channel/0029VaDLUD396H4U21JiHL0G"
    ],
-   "category": "avisos_grupo",
+   "category": "familia_naval",
    "title": "Siga o canal \"Serviço de Veteranos e Pensionistas da Marinha (SVPM)\" no WhatsApp:",
    "icon": "",
    "replyTo": null
@@ -44075,17 +43909,6 @@
    "urls": [],
    "category": "saude_atendimento",
    "title": "A sugestão é vc procurar um médico meu camarada.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 3981,
-   "date": "19/05/26",
-   "sender": "Veterano #15",
-   "text": "Apaguei o post acima por nao fazer parte da regra do grupo",
-   "urls": [],
-   "category": "avisos_grupo",
-   "title": "Apaguei o post acima por nao fazer parte da regra do grupo",
    "icon": "",
    "replyTo": null
   },
@@ -44345,12 +44168,12 @@
   {
    "id": 4005,
    "date": "21/05/26",
-   "sender": "Roberto Jesus",
+   "sender": null,
    "text": "Link atualizado para acesso ao Balcão de Negócios.",
    "urls": [
     "https://tinyurl.com/ttcbnegocios"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Link atualizado para acesso ao Balcão de Negócios.",
    "icon": "",
    "replyTo": null
@@ -44524,12 +44347,12 @@
    "id": 4021,
    "date": "23/05/26",
    "sender": "TTC+Antonio Alves",
-   "text": "",
+   "text": "PROJETO DE LEI nº 2557 de 2026 (PL 2557/2026)\nAutoria: Comissão de Direitos Humanos e Legislação Participativa\nEmenta: Dispõe sobre a isenção do Imposto sobre a Renda da Pessoa Física (IRPF) incidente sobre os rendimentos auferidos pelos militares das Forças Armadas e das forças auxiliares, e dá outras providências.",
    "urls": [
     "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174272"
    ],
-   "category": "avisos_grupo",
-   "title": "",
+   "category": "familia_naval",
+   "title": "PROJETO DE LEI nº 2557 - Isenção do IRPF",
    "icon": "",
    "replyTo": null
   },
@@ -44591,12 +44414,12 @@
   {
    "id": 4027,
    "date": "27/05/26",
-   "sender": "Roberto Jesus",
+   "sender": null,
    "text": "Balcão de Negócios online.",
    "urls": [
     "https://tinyurl.com/ttcbnegocios"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Balcão de Negócios online.",
    "icon": "",
    "replyTo": null
@@ -44657,25 +44480,14 @@
    "replyTo": null
   },
   {
-   "id": 4033,
-   "date": "28/05/26",
-   "sender": "Roberto Jesus",
-   "text": "Eliminou esta mensagem",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Eliminou esta mensagem",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4034,
    "date": "28/05/26",
-   "sender": "Roberto Jesus",
+   "sender": null,
    "text": "Boa noite, veteranos. \n\nO Balcão de Negócios online está atualizado.\nCaso queiram anunciar seus serviços, basta enviar uma mensagem ao encarregado das atualizações, SO Luiz Carlos, pelo número +55 86 9458-6822. \n\nBalcão de Negócios online.",
    "urls": [
     "https://tinyurl.com/ttcbnegocios"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Boa noite, veteranos.",
    "icon": "",
    "replyTo": null
@@ -45079,19 +44891,6 @@
    "replyTo": null
   },
   {
-   "id": 4071,
-   "date": "28/05/26",
-   "sender": "Roberto Jesus",
-   "text": "Está no ar a versão online do Balcão de Negócios.",
-   "urls": [
-    "https://tinyurl.com/ttcbnegocios"
-   ],
-   "category": "links_uteis",
-   "title": "Está no ar a versão online do Balcão de Negócios.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4072,
    "date": "28/05/26",
    "sender": "TTC+",
@@ -45180,17 +44979,6 @@
    "replyTo": null
   },
   {
-   "id": 4080,
-   "date": "29/05/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Chave PIX abaixo",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Chave PIX abaixo",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4081,
    "date": "29/05/26",
    "sender": "5521-X-Jorge de Mesquita Barros",
@@ -45198,17 +44986,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "f81c8516-7eb9-42b3-bcff-97fdc60244df",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4082,
-   "date": "29/05/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Chave PIX para o evento em nome de ORLANDO GILBERTO MOREIRA LEITE",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Chave PIX para o evento em nome de ORLANDO GILBERTO MOREIRA LEITE",
    "icon": "",
    "replyTo": null
   },
@@ -45284,7 +45061,7 @@
    "sender": "Veterano #95",
    "text": "Boa noite a todos os veteranos, uma pergunta que se alguém puder me responder, minha filha passou no concurso pra oficial de carreira, a pergunta é ela perde a pensão no caso no caso de falecimento do pai e da mãe ou continua com o direito?",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Boa noite a todos os veteranos, uma pergunta que se alguém puder me responder, minha filha passou no concurso pra oficial de carreira, a pergunta é el…",
    "icon": "",
    "replyTo": null
@@ -45466,17 +45243,6 @@
    "replyTo": null
   },
   {
-   "id": 4106,
-   "date": "31/05/26",
-   "sender": "5521-SII-Valdomiro Ageu",
-   "text": "Muito obrigado SO mesquita",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Muito obrigado SO mesquita",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4107,
    "date": "31/05/26",
    "sender": "TTC+Scheison Eduardo Serra",
@@ -45515,7 +45281,7 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "A informação solicitada já foi esclarecida. Vamos focar nos objetivos do Grupo pedir ajuda e prestar ajuda. Detalhes e depoimentos não cabem aqui.\nADMIN",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "avisos_grupo",
    "title": "A informação solicitada já foi esclarecida. Vamos focar nos objetivos do Grupo pedir ajuda e prestar ajuda. Detalhes e depoimentos não cabem aqui.",
    "icon": "",
    "replyTo": null
@@ -45594,17 +45360,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Encontrei o erro, isto mesmo, falta de atenção. Obrigado",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4118,
-   "date": "01/06/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "f81c8516-7eb9-42b3-bcff-97fdc60244df",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "f81c8516-7eb9-42b3-bcff-97fdc60244df",
    "icon": "",
    "replyTo": null
   },
@@ -46071,17 +45826,6 @@
    "replyTo": null
   },
   {
-   "id": 4161,
-   "date": "03/06/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "f81c8516-7eb9-42b3-bcff-97fdc60244df",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "f81c8516-7eb9-42b3-bcff-97fdc60244df",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4162,
    "date": "03/06/26",
    "sender": "5521-X-Jorge de Mesquita Barros",
@@ -46153,7 +45897,7 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "Quem fez o PIX e vai no evento me manda no privado o mais breve possível a relação com nome das pessoas que vai levar.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "avisos_grupo",
    "title": "Quem fez o PIX e vai no evento me manda no privado o mais breve possível a relação com nome das pessoas que vai levar.",
    "icon": "",
    "replyTo": null
@@ -46274,7 +46018,7 @@
    "sender": "Veterano #144",
    "text": "Bom dia! \nLiga para o HNMD e pede para passar para o setor de indenização hospitalar. Conta a sua demanda e eles vão te orientar.",
    "urls": [],
-   "category": "juridico",
+   "category": "saude_atendimento",
    "title": "Bom dia!",
    "icon": "",
    "replyTo": null
@@ -46583,12 +46327,12 @@
   {
    "id": 4207,
    "date": "11/06/26",
-   "sender": "Roberto Jesus",
+   "sender": null,
    "text": "Versão online atualizada.",
    "urls": [
     "https://tinyurl.com/ttcbnegocios"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Versão online atualizada.",
    "icon": "",
    "replyTo": null
@@ -46645,17 +46389,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Algum problema no site oficial da MB?",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4213,
-   "date": "12/06/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Sim. Tá fora do ar\nADMIN",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Sim. Tá fora do ar",
    "icon": "",
    "replyTo": null
   },
@@ -46913,39 +46646,6 @@
    "replyTo": null
   },
   {
-   "id": 4237,
-   "date": "16/06/26",
-   "sender": "TTC+Carlos Alberto",
-   "text": "Obrigado pela dica amigo!!",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Obrigado pela dica amigo!!",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4238,
-   "date": "16/06/26",
-   "sender": "Veterano #213",
-   "text": "Desculpa",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Desculpa",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4239,
-   "date": "16/06/26",
-   "sender": "Veterano #213",
-   "text": "Nega de dedo",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Nega de dedo",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4240,
    "date": "16/06/26",
    "sender": "5521-X-Jorge de Mesquita Barros",
@@ -46953,8 +46653,8 @@
    "urls": [
     "https://www.facebook.com/share/r/1CZgEXHcV5/"
    ],
-   "category": "links_uteis",
-   "title": "",
+   "category": "contatos_uteis",
+   "title": "Associação de Veteranos do CFN",
    "icon": "",
    "replyTo": null
   },
@@ -47047,17 +46747,6 @@
    "replyTo": null
   },
   {
-   "id": 4249,
-   "date": "19/06/26",
-   "sender": "Veterano #240",
-   "text": "Só está travado o app",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Só está travado o app",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4250,
    "date": "20/06/26",
    "sender": "Roberto Jesus",
@@ -47071,17 +46760,6 @@
    "replyTo": null
   },
   {
-   "id": 4251,
-   "date": "20/06/26",
-   "sender": "5521-TTC-Sabino Veterano IRPF",
-   "text": "veja no seu privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "veja no seu privado",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4252,
    "date": "22/06/26",
    "sender": "TTC+Bruno",
@@ -47089,39 +46767,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Bom dia a todos!",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4253,
-   "date": "22/06/26",
-   "sender": "Veterano #4",
-   "text": "👆🏽",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "👆🏽",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4254,
-   "date": "22/06/26",
-   "sender": "Veterano #4",
-   "text": "Pág. 3",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Pág. 3",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4255,
-   "date": "22/06/26",
-   "sender": "TTC+Bruno",
-   "text": "Obrigado meu amigo.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Obrigado meu amigo.",
    "icon": "",
    "replyTo": null
   },
@@ -47269,28 +46914,6 @@
    "replyTo": null
   },
   {
-   "id": 4269,
-   "date": "22/06/26",
-   "sender": "TTC+Wagner",
-   "text": "Sim",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Sim",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4270,
-   "date": "23/06/26",
-   "sender": "Veterano #74",
-   "text": "Obrigado a todos",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Obrigado a todos",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4271,
    "date": "23/06/26",
    "sender": "Veterano #4",
@@ -47379,17 +47002,6 @@
    "replyTo": null
   },
   {
-   "id": 4279,
-   "date": "24/06/26",
-   "sender": null,
-   "text": "TTC-🇧🇷 mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "TTC-🇧🇷 mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4280,
    "date": "25/06/26",
    "sender": "Veterano #20",
@@ -47403,17 +47015,6 @@
    "replyTo": null
   },
   {
-   "id": 4281,
-   "date": "25/06/26",
-   "sender": null,
-   "text": "+55 21 99814-3104 mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "+55 21 99814-3104 mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4282,
    "date": "26/06/26",
    "sender": "5586-TTC-Luiz Carlos EL Balcão De Negócios",
@@ -47421,7 +47022,7 @@
    "urls": [
     "https://tinyurl.com/ttcbnegocios"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Link da versão online, do balcão de negócios atualizada.",
    "icon": "",
    "replyTo": null
@@ -47456,7 +47057,7 @@
    "urls": [
     "https://www.instagram.com/reel/DaEHNCVhcKK/?igsh=MXV5b2R6eHl4ajd5dw=="
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Importante",
    "icon": "",
    "replyTo": null
@@ -47467,7 +47068,7 @@
    "sender": "Veterano #179",
    "text": "Do grupo de recebimento do A12 na França",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "falecimento",
    "title": "Do grupo de recebimento do A12 na França",
    "icon": "",
    "replyTo": null
@@ -47513,28 +47114,6 @@
    "urls": [],
    "category": "juridico",
    "title": "Sim, no Brasil algumas *doenças graves dão isenção total de IR* sobre aposentadoria, pensão ou reforma. É pela Lei nº 7.713/88, art. 6º, inciso XIV. e…",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4291,
-   "date": "29/06/26",
-   "sender": "Veterano #26",
-   "text": "Gostaria me chamar pv",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Gostaria me chamar pv",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4292,
-   "date": "29/06/26",
-   "sender": "Veterano #110",
-   "text": "Obrigado Mano!",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Obrigado Mano!",
    "icon": "",
    "replyTo": null
   },
@@ -47616,17 +47195,6 @@
    "replyTo": null
   },
   {
-   "id": 4300,
-   "date": "01/07/26",
-   "sender": "Veterano #26",
-   "text": "Blz",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Blz",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4301,
    "date": "01/07/26",
    "sender": "TTC-の𝑧𝑖𝑒𝑙 Ᏸ𝑎𝑟𝑟𝑒𝑡𝑜",
@@ -47663,10 +47231,10 @@
    "id": 4304,
    "date": "01/07/26",
    "sender": "Veterano #58",
-   "text": "Sim , estive na Receita , e o nome da minha mãe estava errado .",
+   "text": "Sim, estive na Receita, e o nome da minha mãe estava errado.",
    "urls": [],
    "category": "diversos_texto",
-   "title": "Sim , estive na Receita , e o nome da minha mãe estava errado .",
+   "title": "Sim, estive na Receita, e o nome da minha mãe estava errado.",
    "icon": "",
    "replyTo": null
   },
@@ -47685,10 +47253,10 @@
    "id": 4306,
    "date": "01/07/26",
    "sender": "Veterano #58",
-   "text": "O meu nome tbem estava com uma letra a mas   . E agora está atualizado . E é 0800.",
+   "text": "O meu nome também estava com uma letra a mais. E agora está atualizado. E é 0800.",
    "urls": [],
    "category": "diversos_texto",
-   "title": "O meu nome tbem estava com uma letra a mas   . E agora está atualizado . E é 0800.",
+   "title": "O meu nome também estava com uma letra a mais. E agora está atualizado. E é 0800.",
    "icon": "",
    "replyTo": null
   },
@@ -47933,7 +47501,7 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "Fim de proteger quem perdeu o documento. Favor cobrir os dados sensíveis.\nADMIN",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "documentos_dependencia",
    "title": "Fim de proteger quem perdeu o documento. Favor cobrir os dados sensíveis.",
    "icon": "",
    "replyTo": null
@@ -47953,10 +47521,10 @@
    "id": 4330,
    "date": "05/07/26",
    "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Sugiro vc reler nossas regras na descrição do Grupo.\nADMIN",
+   "text": "Sugiro você reler nossas regras na descrição do Grupo.\nADMIN",
    "urls": [],
-   "category": "diversos_texto",
-   "title": "Sugiro vc reler nossas regras na descrição do Grupo.",
+   "category": "avisos_grupo",
+   "title": "Sugiro você reler nossas regras na descrição do Grupo.",
    "icon": "",
    "replyTo": null
   },
@@ -48049,28 +47617,6 @@
    "replyTo": null
   },
   {
-   "id": 4339,
-   "date": "07/07/26",
-   "sender": "TTC-🍺Flavio Lima 🎣",
-   "text": "Presencial",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Presencial",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4340,
-   "date": "07/07/26",
-   "sender": "Veterano #194",
-   "text": "Obrigado 🤝",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Obrigado 🤝",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4341,
    "date": "09/07/26",
    "sender": "5586-TTC-Luiz Carlos EL Balcão De Negócios",
@@ -48104,36 +47650,14 @@
    "replyTo": null
   },
   {
-   "id": 4344,
-   "date": "09/07/26",
-   "sender": "Roberto Jesus",
-   "text": "Eliminou esta mensagem",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Eliminou esta mensagem",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4345,
-   "date": "09/07/26",
-   "sender": "Roberto Jesus",
-   "text": "Eliminou esta mensagem",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Eliminou esta mensagem",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4346,
    "date": "09/07/26",
-   "sender": "Roberto Jesus",
+   "sender": null,
    "text": "Balcão de Negócios online atualizado.",
    "urls": [
     "https://tinyurl.com/ttcbnegocios"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Balcão de Negócios online atualizado.",
    "icon": "",
    "replyTo": null
@@ -48282,24 +47806,13 @@
    "replyTo": null
   },
   {
-   "id": 4360,
-   "date": "14/07/26",
-   "sender": "Veterano #22",
-   "text": "👆🏼👆🏼👆🏼",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "👆🏼👆🏼👆🏼",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4361,
    "date": "14/07/26",
    "sender": "Veterano #154",
-   "text": "*MUITO OBRIGADO A TODOS QUE RESPONDERAM AO MEU PEDIDO!!!*\n\nJá tomei uma decisão: deixar como está!!!",
+   "text": "*MUITO OBRIGADO A TODOS QUE RESPONDERAM AO MEU PEDIDO!*\n\nJá tomei uma decisão: deixar como está!",
    "urls": [],
    "category": "diversos_texto",
-   "title": "*MUITO OBRIGADO A TODOS QUE RESPONDERAM AO MEU PEDIDO!!!*",
+   "title": "*MUITO OBRIGADO A TODOS QUE RESPONDERAM AO MEU PEDIDO!*",
    "icon": "",
    "replyTo": null
   },
@@ -48340,21 +47853,10 @@
    "id": 4365,
    "date": "14/07/26",
    "sender": "Veterano #102",
-   "text": "Mas isso não impede de vc adiantar e levar o ofício",
+   "text": "Mas isso não impede de vc adiantar e levar o ofício. Pode demorar.",
    "urls": [],
    "category": "diversos_texto",
    "title": "Mas isso não impede de vc adiantar e levar o ofício",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4366,
-   "date": "14/07/26",
-   "sender": "Veterano #102",
-   "text": "Pode demorar",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Pode demorar",
    "icon": "",
    "replyTo": null
   },
@@ -48388,17 +47890,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Se tiver possibilidade entrega, o meu fiz assim tbm. Porque fórum tem um trâmite e entregando em mãos e mais rápido.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4370,
-   "date": "14/07/26",
-   "sender": "Veterano #250",
-   "text": "Blz",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Blz",
    "icon": "",
    "replyTo": null
   },
@@ -48634,17 +48125,6 @@
    "replyTo": null
   },
   {
-   "id": 4392,
-   "date": "16/07/26",
-   "sender": "Veterano #154",
-   "text": "Solicito incluir este Veterano no grupo dos TTCs",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Solicito incluir este Veterano no grupo dos TTCs",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4393,
    "date": "16/07/26",
    "sender": "Veterano #154",
@@ -48696,19 +48176,8 @@
    "urls": [
     "https://tinyurl.com/ttcbnegocios"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Balcão de Negócios online atualizado.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4398,
-   "date": "16/07/26",
-   "sender": "5586-TTC-Luiz Carlos EL Balcão De Negócios",
-   "text": "Boa tarde 🌻 \nDesculpem pela a demora 🙏🙏",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Boa tarde 🌻",
    "icon": "",
    "replyTo": null
   },
@@ -48751,7 +48220,7 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "Boa noite a todos.\nHj a tarde um companheiro do Grupo achou por bem fazer um relato no qual reclamava de um atendimento num OM da MB. Quero deixar bem claro aqui que a Administração do Grupo não é contra você reclamar por seus DIREITOS. Só que existem meios para isso. Caso vc se ache mal atendido a sugestão é pedir para falar com um Supervisor (toda OM tem um). E caso não se dê por satisfeito use a OUVIDORIA.\nAgora vir aqui no Grupo ficar fazendo explanações que só incitam a outros a fazerem também não é a melhor forma. E não será tolerado aqui no Grupo.\nADMIN",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "avisos_grupo",
    "title": "Boa noite a todos.",
    "icon": "",
    "replyTo": null
@@ -48760,21 +48229,10 @@
    "id": 4403,
    "date": "17/07/26",
    "sender": "TTC+",
-   "text": "Boa noite a todos.  \nEm manaus .... se o Veterano precisar de uma emergência... onde ele pode ir? Obrigado.",
+   "text": "Boa noite a todos.  \nEm Manaus. Se o veterano precisar de uma emergência, onde ele pode ir? Obrigado.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "saude_atendimento",
    "title": "Boa noite a todos.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4404,
-   "date": "17/07/26",
-   "sender": "Veterano #1",
-   "text": "Vou informar no PV",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Vou informar no PV",
    "icon": "",
    "replyTo": null
   },
@@ -48801,28 +48259,6 @@
    "replyTo": null
   },
   {
-   "id": 4407,
-   "date": "17/07/26",
-   "sender": "Veterano #72",
-   "text": "Informações enviadas no PV.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Informações enviadas no PV.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4408,
-   "date": "17/07/26",
-   "sender": "Veterano #72",
-   "text": "Informações enviadas no PV.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Informações enviadas no PV.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4409,
    "date": "17/07/26",
    "sender": "Veterano #120",
@@ -48841,50 +48277,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Cuidado! Eles dizem que você tem resíduo a pagar.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4411,
-   "date": "17/07/26",
-   "sender": "Veterano #4",
-   "text": "Isso é Gópi",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Isso é Gópi",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4412,
-   "date": "17/07/26",
-   "sender": "Veterano #120",
-   "text": "Óbvio",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Óbvio",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4413,
-   "date": "17/07/26",
-   "sender": "Veterano #120",
-   "text": "👆🏻👆🏻",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "👆🏻👆🏻",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4414,
-   "date": "17/07/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Pessoal que anda cheio de dúvidas sobre esse lance de Dependentes. Da uma olhada nessa publicação acima.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Pessoal que anda cheio de dúvidas sobre esse lance de Dependentes. Da uma olhada nessa publicação acima.",
    "icon": "",
    "replyTo": null
   },
@@ -48911,17 +48303,6 @@
    "replyTo": null
   },
   {
-   "id": 4417,
-   "date": "18/07/26",
-   "sender": "TTC+Carlos ☕☕☕☕😃😃😃😃",
-   "text": "Vou ver telefone e aqui",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Vou ver telefone e aqui",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4418,
    "date": "18/07/26",
    "sender": "TTC+Carlos ☕☕☕☕😃😃😃😃",
@@ -48940,17 +48321,6 @@
    "urls": [],
    "category": "saude_atendimento",
    "title": "O médico daí tem que ligar para o hospital Aqui",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4420,
-   "date": "18/07/26",
-   "sender": "TTC+Carlos ☕☕☕☕😃😃😃😃",
-   "text": "Melhoras",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Melhoras",
    "icon": "",
    "replyTo": null
   },
@@ -48977,17 +48347,6 @@
    "replyTo": null
   },
   {
-   "id": 4423,
-   "date": "20/07/26",
-   "sender": "Veterano #106",
-   "text": "Se puder me chame no privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Se puder me chame no privado",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4424,
    "date": "20/07/26",
    "sender": "Veterano #22",
@@ -48995,17 +48354,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Boa tarde. Era para ter pedido junto. Quem determina se tem direito ou não é a junta. De acordo com a sua necessidade física. Se precisa ou não de cui…",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4425,
-   "date": "20/07/26",
-   "sender": "Veterano #106",
-   "text": "Entendi",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Entendi",
    "icon": "",
    "replyTo": null
   },
@@ -49050,17 +48398,6 @@
    "urls": [],
    "category": "saude_atendimento",
    "title": "Boa tarde! alguém pode enviar o número do Nosso senhora da Glória,marcar/desmarcar consultas!",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4430,
-   "date": "21/07/26",
-   "sender": "Roberto Jesus",
-   "text": "Eliminou esta mensagem",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Eliminou esta mensagem",
    "icon": "",
    "replyTo": null
   },
@@ -49127,7 +48464,7 @@
    "urls": [
     "https://tinyurl.com/ttcbnegocios"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Balcão de Negócios online atualizado.",
    "icon": "",
    "replyTo": null
@@ -49149,7 +48486,7 @@
    "sender": "Veterano #31",
    "text": "Lei 7713/1988 - 8541/1992- 9250/1995 e 11052/2004.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "documentos_dependencia",
    "title": "Lei 7713/1988 - 8541/1992- 9250/1995 e 11052/2004.",
    "icon": "",
    "replyTo": null
@@ -49162,17 +48499,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Caso ainda tenha dúvidas pode me chamar no privado",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4440,
-   "date": "24/07/26",
-   "sender": "Roberto Jesus",
-   "text": "Eliminou esta mensagem",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Eliminou esta mensagem",
    "icon": "",
    "replyTo": null
   },
@@ -49202,7 +48528,7 @@
    "id": 4443,
    "date": "25/07/26",
    "sender": "Veterano #181",
-   "text": "Eu já tinha visto essa mensagem em grupos de Militares da MB...  Mas, achei que não era verdade...  sendo postado  aqui nesse grupo e pelo o ADMINIM..... agora sim... valeu!",
+   "text": "Eu já tinha visto essa mensagem em grupos de Militares da MB...  Mas, achei que não era verdade...  sendo postado  aqui nesse grupo e pelo ADMINIM. Agora sim... valeu!",
    "urls": [],
    "category": "diversos_texto",
    "title": "Eu já tinha visto essa mensagem em grupos de Militares da MB...  Mas, achei que não era verdade...  sendo postado  aqui nesse grupo e pelo o ADMINIM..…",
@@ -49221,35 +48547,13 @@
    "replyTo": null
   },
   {
-   "id": 4445,
-   "date": "25/07/26",
-   "sender": "Veterano #181",
-   "text": "Poderia sair um bono com essa matéria",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Poderia sair um bono com essa matéria",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4446,
    "date": "25/07/26",
    "sender": "Veterano #239",
    "text": "Bom dia, Alguém pode me passar o contato da DSM, meu pai precisa fazer uma fístula para hemodiálise e faz mais de dois meses que está esperando autorização estou vendo a hora eu perder meu pai. Desde já peço desculpas ao grupo e agradeço.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "contatos_uteis",
    "title": "Bom dia, Alguém pode me passar o contato da DSM, meu pai precisa fazer uma fístula para hemodiálise e faz mais de dois meses que está esperando autori…",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4447,
-   "date": "25/07/26",
-   "sender": "Veterano #43",
-   "text": "Boa tarde. Me permita...",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Boa tarde. Me permita...",
    "icon": "",
    "replyTo": null
   },
@@ -49261,28 +48565,6 @@
    "urls": [],
    "category": "saude_atendimento",
    "title": "A julgar pelo seu DDD, vc e seu dependente residem em Natal. A OMH responsável pela prestação da AMH aí da área é o HOSNAT. O procedimento que o Sr re…",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4449,
-   "date": "25/07/26",
-   "sender": "Veterano #43",
-   "text": "dsm.ouvidoria@marinha.mil.br",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "dsm.ouvidoria@marinha.mil.br",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4450,
-   "date": "25/07/26",
-   "sender": "Veterano #43",
-   "text": "(21) 2104-5621",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "(21) 2104-5621",
    "icon": "",
    "replyTo": null
   },
@@ -49492,7 +48774,7 @@
    "sender": "Veterano #165",
    "text": "Boa noite, esta orientação e para militares e dependentes na área do 1°DN m, alguém tem a mesma orientação para os militares e dependentes domiciliados no 3°DN, especificamente, Recife-PE e Natal-RN?",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "familia_naval",
    "title": "Boa noite, esta orientação e para militares e dependentes na área do 1°DN m, alguém tem a mesma orientação para os militares e dependentes domiciliado…",
    "icon": "",
    "replyTo": null
@@ -49503,7 +48785,7 @@
    "sender": "Veterano #93",
    "text": "Boa tarde!\nAlguém faz parte do EMPÓRIO NAVAL que possa me esclarecer no privado como funciona?",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "familia_naval",
    "title": "Boa tarde!",
    "icon": "",
    "replyTo": null
@@ -49514,7 +48796,7 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "O Empório Naval nada mais é que um CLUBE DE VANTAGENS. Onde vc se associa e passa a ter alguns descontos em empresas parceiras. E uma das vantagens que o pessoal mais gosta são os planos que dão desconto em academias principalmente a Smart Fit.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "familia_naval",
    "title": "O Empório Naval nada mais é que um CLUBE DE VANTAGENS. Onde vc se associa e passa a ter alguns descontos em empresas parceiras. E uma das vantagens qu…",
    "icon": "",
    "replyTo": null
@@ -49536,8 +48818,8 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "Alguns veteranos estão entrando no meu PV para saber se é vantajoso entrar no \"Empório Naval\". A resposta mais correta é: depende da necessidade de cada um. Por exemplo: Vamos supor que o Empório de desconto em TEATRO. Aí eu falo que não frequento mas vc vai sempre Assistir a peças de Teatro. Então pra vc é vantagem.\nO valor é pequeno. Mas cada um deve analisar se vale a pena. Coloquei os contatos acima.\nADMIN",
    "urls": [],
-   "category": "diversos_texto",
-   "title": "Alguns veteranos estão entrando no meu PV para saber se é vantajoso entrar no \"Empório Naval\". A resposta mais correta é: depende da necessidade de ca…",
+   "category": "familia_naval",
+   "title": "Alguns veteranos estão entrando no meu PV para saber se é vantajoso entrar no \"Empório Naval\".",
    "icon": "",
    "replyTo": null
   },
@@ -49564,17 +48846,6 @@
    "replyTo": null
   },
   {
-   "id": 4484,
-   "date": "30/07/26",
-   "sender": "Veterano #102",
-   "text": "Segue aí",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Segue aí",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4485,
    "date": "30/07/26",
    "sender": "Veterano #141",
@@ -49591,7 +48862,7 @@
    "sender": "TTC-の𝑧𝑖𝑒𝑙 Ᏸ𝑎𝑟𝑟𝑒𝑡𝑜",
    "text": "Contato do Gerente do Empório Naval na área Rio.\n\nSO-RM1-EDUARDO",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "familia_naval",
    "title": "Contato do Gerente do Empório Naval na área Rio.",
    "icon": "",
    "replyTo": null
@@ -49604,7 +48875,7 @@
    "urls": [
     "https://tinyurl.com/ttcbnegocios"
    ],
-   "category": "links_uteis",
+   "category": "contatos_uteis",
    "title": "Balcão de Negócios online atualizado.",
    "icon": "",
    "replyTo": null
@@ -50686,6 +49957,56 @@
    "title": "Serviço De Assistencia Funeral",
    "icon": "",
    "replyTo": null
+  },
+  {
+   "id": "c1785938226484",
+   "date": "05/08/2026",
+   "sender": null,
+   "text": "",
+   "urls": [
+    "https://www.gov.br/pt-br"
+   ],
+   "category": "saude_atendimento",
+   "icon": "",
+   "replyTo": 4482,
+   "title": ""
+  },
+  {
+   "id": "c1785938265486",
+   "date": "05/08/2026",
+   "sender": null,
+   "text": "",
+   "urls": [
+    "https://www.gov.br/pt-br"
+   ],
+   "category": "saude_atendimento",
+   "icon": "",
+   "replyTo": 4483,
+   "title": "Prova de vida"
+  },
+  {
+   "id": "c1786024101926",
+   "date": "06/08/2026",
+   "sender": null,
+   "text": "",
+   "urls": [],
+   "category": "alojamento_hospedagem",
+   "icon": "",
+   "replyTo": 4415,
+   "title": "Resposta a Calixto"
+  },
+  {
+   "id": "c1786027043633",
+   "date": "06/08/2026",
+   "sender": null,
+   "text": "Grupo aberto para troca de informações adicionais após primeiro contato nos grupo TTC e TETS 1 e 2.",
+   "urls": [
+    "https://chat.whatsapp.com/DYvqNxfGyJlK9t4qjgOAuL?s=cl&p=a&ilr=0"
+   ],
+   "category": "avisos_grupo",
+   "icon": "",
+   "replyTo": null,
+   "title": "Grupo TTC-Chat"
   }
  ]
 }
