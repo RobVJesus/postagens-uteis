@@ -19388,19 +19388,19 @@
   {
    "id": 1690,
    "date": "17/12/25",
-   "sender": "Roberto Jesus",
+   "sender": null,
    "text": "Página de audiência de canais",
    "urls": [
     "https://grok.com/share/bGVnYWN5LWNvcHk_da90f431-cf47-4b07-b381-9cc46ca70f91"
    ],
-   "category": "outros_links",
+   "category": "noticias_politica",
    "title": "Página de audiência de canais",
    "icon": ""
   },
   {
    "id": 1691,
    "date": "17/12/25",
-   "sender": "Roberto Jesus",
+   "sender": null,
    "text": "Conversa Timeline \n\n\n \n\nCNN Brasil \n\n\n \n\nJovem Pan News\n\n\n <Esta mensagem foi editada>",
    "urls": [
     "https://livecounts.io/youtube-live-subscriber-counter/UCEihMpvv65etsGwJVVBCO2Q",
@@ -19410,7 +19410,7 @@
     "https://livecounts.io/youtube-live-subscriber-counter/UCP391YRAjSOdM_bwievgaZA",
     "https://socialblade.com/youtube/channel/UCP391YRAjSOdM_bwievgaZA"
    ],
-   "category": "outros_links",
+   "category": "noticias_politica",
    "title": "Conversa Timeline",
    "icon": ""
   },
@@ -19729,12 +19729,12 @@
   {
    "id": 1721,
    "date": "22/12/25",
-   "sender": "Roberto Jesus",
+   "sender": null,
    "text": "Site do Allan",
    "urls": [
     "https://allandossantos.net/"
    ],
-   "category": "outros_links",
+   "category": "noticias_politica",
    "title": "Site do Allan",
    "icon": ""
   },
@@ -19799,13 +19799,13 @@
   {
    "id": 1727,
    "date": "27/12/25",
-   "sender": "Roberto Jesus",
+   "sender": null,
    "text": "",
    "urls": [
     "https://guest.hotelgest.com/?t=pX-kpOHol5WjpHifpJWcl5WjpHifpJWcl5WjpHmkpp2lm52spX-lqpylnpunrQ=="
    ],
    "category": "outros_links",
-   "title": "",
+   "title": "Hotel São Lázaro",
    "icon": ""
   },
   {
@@ -21943,13 +21943,13 @@
   {
    "id": 1913,
    "date": "20/03/26",
-   "sender": "Roberto Jesus",
-   "text": "",
+   "sender": null,
+   "text": "Tem que amarrar o tênis no final",
    "urls": [
     "https://vm.tiktok.com/ZGduxHKWL/"
    ],
-   "category": "outros_links",
-   "title": "",
+   "category": "saude",
+   "title": "Old Man Test",
    "icon": ""
   },
   {
@@ -23459,30 +23459,6 @@
    "icon": ""
   },
   {
-   "id": 2048,
-   "date": "08/05/26",
-   "sender": "Roberto Jesus",
-   "text": "",
-   "urls": [
-    "https://claude.ai/public/artifacts/2d5ccfe5-7ae7-4154-9bb8-bcd98f108abb"
-   ],
-   "category": "outros_links",
-   "title": "",
-   "icon": ""
-  },
-  {
-   "id": 2049,
-   "date": "08/05/26",
-   "sender": "Roberto Jesus",
-   "text": "Share TinyURL on Whatsapp",
-   "urls": [
-    "https://tinyurl.com/ttcnegocios"
-   ],
-   "category": "outros_links",
-   "title": "Share TinyURL on Whatsapp",
-   "icon": ""
-  },
-  {
    "id": 2050,
    "date": "08/05/26",
    "sender": "Roberto Jesus",
@@ -23519,13 +23495,13 @@
   {
    "id": 2053,
    "date": "10/05/26",
-   "sender": "Roberto Jesus",
-   "text": "",
+   "sender": null,
+   "text": "Versão atual",
    "urls": [
     "https://robvjesus.github.io/ttc-vets2/"
    ],
    "category": "outros_links",
-   "title": "",
+   "title": "Balcão de Negócios online",
    "icon": ""
   },
   {
@@ -23805,13 +23781,13 @@
   {
    "id": 2078,
    "date": "21/05/26",
-   "sender": "Roberto Jesus",
-   "text": "",
+   "sender": null,
+   "text": "Primeira versão\n\nhttps://claude.ai/public/artifacts/2d5ccfe5-7ae7-4154-9bb8-bcd98f108abb",
    "urls": [
     "https://tinyurl.com/ttcnegocios"
    ],
    "category": "outros_links",
-   "title": "",
+   "title": "Artefato Balcão de Negócios",
    "icon": ""
   },
   {
@@ -23866,18 +23842,6 @@
    ],
    "category": "redes_sociais",
    "title": "Ferramentas de perfurar",
-   "icon": ""
-  },
-  {
-   "id": 2084,
-   "date": "22/05/26",
-   "sender": "Roberto Jesus",
-   "text": "",
-   "urls": [
-    "https://tinyurl.com/ttcbnegocios"
-   ],
-   "category": "outros_links",
-   "title": "",
    "icon": ""
   },
   {
@@ -25849,13 +25813,13 @@
   {
    "id": 2259,
    "date": "14/07/26",
-   "sender": "Roberto Jesus",
-   "text": "",
+   "sender": null,
+   "text": "Rotas aéreas",
    "urls": [
     "https://www.flightaware.com/live/flight/RYR4042"
    ],
    "category": "outros_links",
-   "title": "",
+   "title": "Flight Aware",
    "icon": ""
   },
   {
@@ -26036,13 +26000,13 @@
   {
    "id": 2276,
    "date": "22/07/26",
-   "sender": "Roberto Jesus",
+   "sender": null,
    "text": "",
    "urls": [
     "https://claude.ai/referral/uhGP_-SoJA?s=android"
    ],
    "category": "outros_links",
-   "title": "",
+   "title": "Claude AI",
    "icon": ""
   },
   {
@@ -26255,13 +26219,13 @@
   {
    "id": 2296,
    "date": "26/07/26",
-   "sender": "Roberto Jesus",
-   "text": "Antissemitismi suíço",
+   "sender": null,
+   "text": "Antissemitismo suíço",
    "urls": [
     "https://www.instagram.com/reel/DbODhbaxjiM/?igsh=amZlbHF3bHU3dm4w"
    ],
    "category": "redes_sociais",
-   "title": "Antissemitismi suíço",
+   "title": "Antissemitismo suíço",
    "icon": ""
   },
   {
@@ -26387,13 +26351,13 @@
   {
    "id": 2307,
    "date": "29/07/26",
-   "sender": "Roberto Jesus",
-   "text": "",
+   "sender": null,
+   "text": "Condomínio do novo apartamento em Recife",
    "urls": [
     "https://www.instagram.com/reel/DbWWCTgJVLq/?igsh=YXRjYXg5NG45dHE0"
    ],
    "category": "redes_sociais",
-   "title": "",
+   "title": "Obra do novo condomínio",
    "icon": ""
   },
   {
